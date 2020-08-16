@@ -8,7 +8,7 @@ body {
   background-color: darkblue;
    color: white;
    width: 30%;
-   font-family: 'Aclonica', sans-serif;
+   font-family: 'Roboto Slab', serif;
   /* font-family: 'Niconne', cursive;*/
    /*font-family: 'Dancing Script', cursive;*/
 }
@@ -18,7 +18,7 @@ body {
    width: 25%;
    font-size: 1.1rem;
    font-weight: bold;
-  font-family: 'Sora', sans-serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 img:hover {
@@ -38,7 +38,7 @@ hr {
 }
 
 body{
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Epilogue', sans-serif;
 }
 /***************Class Selector******************/
 
@@ -51,7 +51,7 @@ body{
     background-color: darkblue;
      color: white;
      width: 50%;
-     font-family: 'Aclonica', sans-serif;
+     font-family: 'Roboto Slab', serif;
      text-align: center;
   }
   .head3{
