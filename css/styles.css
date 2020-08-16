@@ -79,9 +79,14 @@ font-family: 'Roboto Slab', serif;
      font-size: 1.1rem;
      font-weight: 500;
   }
+  .tdata{
+     font-family: 'Roboto Slab', serif;
+     text-align: center;
+     font-size: 1.1rem;
+     font-weight: 500;
+  }
   p{
     font-family: 'Roboto Slab', serif;
-    text-align: center;
     font-size: 1.1rem;
      font-weight: 500;
   }
