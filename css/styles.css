@@ -36,7 +36,23 @@ hr {
   width: 100%;
 
 }
-
+.tdata{
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.table1{
+   font-family: 'Roboto Slab', serif;
+   text-align: center;
+   font-size: 1.1rem;
+   font-weight: 500;
+}
+p{
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.1rem;
+   font-weight: 500;
+}
 body{
 font-family: 'Roboto Slab', serif;
 }
@@ -61,6 +77,12 @@ font-family: 'Roboto Slab', serif;
      font-family: 'Roboto Slab', serif;
      text-align: center;
      font-size: 1.1rem;
+     font-weight: 500;
+  }
+  p{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 1.1rem;
      font-weight: 500;
   }
 /* .head2{
